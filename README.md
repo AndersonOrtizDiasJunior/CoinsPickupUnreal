@@ -1,4 +1,3 @@
-# CoinsPickupUnreal
 # Overview
 
 This is pickuable coin that disappears when touched and display a sound made with C++ for Unreal Engine 5.1
